@@ -160,9 +160,6 @@
 		"uniqueName": "The Lone-Star State",
 		"uniques": ["[+1 Production] from every [Pasture] <in [Cattle] tiles>", "[+1 Production] from every [Pasture] <in [Horse] tiles>", "[Civilian] units gain the [Ranch Hand] promotion", "[Scout] units gain the [Ranch Hand] promotion", "[Mounted] units gain the [Ranch Hand] promotion"],
 
-		"uniqueName" : "Oil Tycoon",
-		"uniques" : "Double quantity of [Oil] produced",
-
 		"uniquesName" : "Right to bare arms" 
 		"uniques" : "[+20]% Strength for cities",
 
