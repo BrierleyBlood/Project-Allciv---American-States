@@ -154,8 +154,8 @@
 
 		"tradeRequest": "Let us weave our resources together; prosperity is best shared among allies.",
 
-		"outerColor": [25, 29, 84],
-		"innerColor": [254, 29, 65],
+		"outerColor": [26, 31, 175],
+		"innerColor": [201, 71, 9],
 
 		"uniqueName": "The Lone-Star State",
 		"uniques": ["[+1 Production] from every [Pasture] <in [Cattle] tiles>", "[+1 Production] from every [Pasture] <in [Horse] tiles>", "[Civilian] units gain the [Ranch Hand] promotion", "[Scout] units gain the [Ranch Hand] promotion", "[Mounted] units gain the [Ranch Hand] promotion"],
